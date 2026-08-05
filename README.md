@@ -1,6 +1,6 @@
 # Olá! 👋 Bem-vindo ao meu perfil
 
-Meu nome é **Thiago**, tenho 32 anos e sou estudante apaixonado por tecnologia e desenvolvimento de jogos. Atualmente moro em **Florianópolis, SC** e estou em transição de carreira para as áreas de **TI**, **Suporte Técnico** e **Game Development**.
+Meu nome é **Thiago**, tenho 33 anos e sou estudante apaixonado por tecnologia e desenvolvimento de jogos. Atualmente moro em **Florianópolis, SC** e estou em transição de carreira para as áreas de **TI**, **Suporte Técnico** e **Game Development**.
 
 ---
 
