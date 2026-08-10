@@ -1,57 +1,51 @@
-# Olá! 👋 Bem-vindo ao meu perfil
+# Olá! 👋 Eu sou o Thiago Padilha
 
-Meu nome é **Thiago**, tenho 33 anos e sou estudante apaixonado por tecnologia e desenvolvimento de jogos. Atualmente moro em **Florianópolis, SC** e estou em transição de carreira para as áreas de **TI**, **Suporte Técnico** e **Game Development**.
+Estudante de **Desenvolvimento de Jogos Digitais** na Unicesumar, em transição de carreira para a área de **TI**. Moro em **Florianópolis/SC** e estou buscando uma primeira oportunidade como estagiário ou auxiliar em tecnologia.
+
+Tenho paixão por resolver problemas, aprender novas ferramentas e transformar ideias em projetos concretos — seja no desenvolvimento de jogos, no suporte técnico ou na programação.
 
 ---
 
 ## 🎯 Objetivo Profissional
 
-Busco oportunidades como:
-- 💼 **Estagiário em TI**
-- 🛠️ **Auxiliar de T.I.**
-- 🔧 **Posições para iniciantes** na área de tecnologia
-
-Meu foco é aplicar meus conhecimentos em desenvolvimento e lógica de programação, contribuindo para projetos inovadores enquanto continuo expandindo minha expertise em tecnologia, mesmo estando ainda em formação no curso técnico. Estou motivado a resolver problemas de programação e aprender com profissionais da área.
+- Estágio em **TI / Suporte Técnico**
+- Auxiliar de **Tecnologia da Informação**
+- Oportunidades de entrada em **Game Development**
 
 ---
 
-## 💡 Principais Habilidades
+## 🛠️ Tecnologias e Ferramentas
 
-- **Python** - Desenvolvimento e otimização de código
-- **Lógica de Programação** - Solução de problemas estruturados
-- **IA & Otimização** - Aplicação de inteligência artificial em projetos
-- **Game Development** - Conceitos e prática de desenvolvimento de jogos
-- **Análise e Resolução de Problemas** - Mindset técnico e prático
-
----
-
-## 📚 Formação Acadêmica
-
-- **Produção de Jogos Digitais** - Curso em andamento
-- **Desenvolvimento de Jogos (Técnico)** - Unicesumar (em conclusão)
-- Trabalhos acadêmicos com excelente desempenho
+| Área | Tecnologias |
+|------|-------------|
+| **Game Engines** | Unity, Unreal Engine |
+| **Linguagens** | C#, Java, Python, JavaScript |
+| **Banco de Dados** | SQL, MySQL |
+| **Lógica e Programação** | POO, lógica de programação, resolução de problemas |
 
 ---
 
-## 🌟 Destaques
+## 🎓 Formação
 
-✅ Desempenho sólido em projetos acadêmicos  
-✅ Fundamentos sólidos em lógica de programação  
-✅ Interesse constante em aprender novas tecnologias  
-✅ Foco em transição de carreira estratégica  
-✅ Motivado a resolver problemas reais de programação  
-✅ Aberto a aprender com profissionais da área  
+- **Produção de Jogos Digitais** — Unicesumar (em andamento)
+- **Desenvolvimento de Jogos (Técnico)*  — Unicesumar (em conclusão)
 
 ---
 
-## 📬 Vamos Conectar?
+## 📂 Projetos em Destaque
 
-Se você está procurando alguém motivado, com vontade de aprender e com base sólida em programação, vamos conversar!
+- [**Mapas-Unicesumar**](https://github.com/gothiapadilha/Mapas-Unicesumar) — Repositório com entregas acadêmicas (MAPAs) do curso técnico de Desenvolvimento de Jogos.
 
-- **GitHub**: [github.com/gothiapadilha](https://github.com/gothiapadilha)
-- **Local**: Florianópolis, SC
+---
+
+## 📬 Vamos conversar?
+
+Se você tem uma oportunidade para quem está começando na área de TI ou gamedev, me chama!
+
+- 💼 [LinkedIn](https://linkedin.com/in/thiagopadilha) *(adicione seu link depois)*
+- 🐙 [github.com/gothiapadilha](https://github.com/gothiapadilha)
+- 📍 Florianópolis, SC
 
 ---
 
 **Obrigado por visitar meu perfil! 🚀**
- esse ficou melhor, vou por esse
