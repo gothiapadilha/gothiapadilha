@@ -42,7 +42,7 @@ Tenho paixão por resolver problemas, aprender novas ferramentas e transformar i
 
 Se você tem uma oportunidade para quem está começando na área de TI ou gamedev, me chama!
 
-- 💼 [LinkedIn](https://linkedin.com/in/thiagopadilha) *(adicione seu link depois)*
+- 💼 [LinkedIn](https://linkedin.com/in/thiagopadilha) 
 - 🐙 [github.com/gothiapadilha](https://github.com/gothiapadilha)
 - 📍 Florianópolis, SC
 
