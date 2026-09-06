@@ -2,7 +2,7 @@
 
 Estudante de **Desenvolvimento de Jogos Digitais** na Unicesumar, em transição de carreira para a área de **TI**. Moro em **Florianópolis/SC** e estou buscando uma primeira oportunidade como estagiário ou auxiliar em tecnologia.
 
-Tenho paixão por resolver problemas, aprender novas ferramentas e transformar ideias em projetos concretos — seja no desenvolvimento de jogos, no suporte técnico ou na programação.
+Tenho paixão por resolver problemas, aprender novas ferramentas e transformar ideias em projetos concretos 
 
 ---
 
