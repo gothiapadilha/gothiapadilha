@@ -18,10 +18,10 @@ Tenho paixão por resolver problemas, aprender novas ferramentas e transformar i
 
 | Área | Tecnologias |
 |------|-------------|
-| **Game Engines** | Unity, Unreal Engine |
-| **Linguagens** | C#, Java, Python, JavaScript |
-| **Banco de Dados** | SQL, MySQL |
-| **Lógica e Programação** | POO, lógica de programação, resolução de problemas |
+| Linguagens: Python, C#, Java, JavaScript
+Banco de dados: SQL, MySQL
+Game Engines: Unity, Unreal Engine
+Conceitos: POO, lógica de programação
 
 ---
 
