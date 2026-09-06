@@ -1,51 +1,66 @@
 # Olá! 👋 Eu sou o Thiago Padilha
 
-Estudante de **Desenvolvimento de Jogos Digitais** na Unicesumar, em transição de carreira para a área de **TI**. Moro em **Florianópolis/SC** e estou buscando uma primeira oportunidade como estagiário ou auxiliar em tecnologia.
+🎓 Estudante de **Desenvolvimento de Jogos Digitais** na UniCesumar e em transição de carreira para a área de **Tecnologia da Informação**.
 
-Tenho paixão por resolver problemas, aprender novas ferramentas e transformar ideias em projetos concretos 
+📍 Florianópolis/SC
+🎯 Buscando minha primeira oportunidade profissional como **Estagiário ou Auxiliar de TI**.
+
+Tenho interesse em **programação, suporte técnico e desenvolvimento de software**, além de experiência acadêmica com desenvolvimento de jogos.
+
+Gosto de resolver problemas, aprender novas ferramentas e transformar conhecimentos em projetos práticos.
 
 ---
 
 ## 🎯 Objetivo Profissional
 
-- Estágio em **TI / Suporte Técnico**
-- Auxiliar de **Tecnologia da Informação**
-- Oportunidades de entrada em **Game Development**
+Busco uma oportunidade de entrada na área de tecnologia, principalmente em:
+
+* **Estágio em TI**
+* **Suporte Técnico**
+* **Auxiliar de Tecnologia da Informação**
+* Desenvolvimento de Software
+* Game Development
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias e Conhecimentos
 
-| Área | Tecnologias |
-|------|-------------|
-| Linguagens: Python, C#, Java, JavaScript
-Banco de dados: SQL, MySQL
-Game Engines: Unity, Unreal Engine
-Conceitos: POO, lógica de programação
+| Área               | Tecnologias / Conhecimentos  |
+| ------------------ | ---------------------------- |
+| **Linguagens**     | Python, C#, Java, JavaScript |
+| **Banco de Dados** | SQL, MySQL                   |
+| **Game Engines**   | Unity, Unreal Engine         |
+| **Programação**    | Lógica de programação, POO   |
+| **Outros**         | Resolução de problemas       |
 
 ---
 
 ## 🎓 Formação
 
-- **Produção de Jogos Digitais** — Unicesumar (em andamento)
-- **Desenvolvimento de Jogos (Técnico)*  — Unicesumar (em conclusão)
+**UniCesumar**
+
+* Tecnologia em Desenvolvimento de Jogos Digitais — em andamento
+* Formação técnica em Desenvolvimento de Jogos — em conclusão
 
 ---
 
-## 📂 Projetos em Destaque
+## 📂 Projetos
 
-- [**Mapas-Unicesumar**](https://github.com/gothiapadilha/Mapas-Unicesumar) — Repositório com entregas acadêmicas (MAPAs) do curso técnico de Desenvolvimento de Jogos.
+### 🎮 Mapas-Unicesumar
 
----
+Repositório com projetos e entregas acadêmicas desenvolvidos durante minha formação em Desenvolvimento de Jogos.
 
-## 📬 Vamos conversar?
-
-Se você tem uma oportunidade para quem está começando na área de TI ou gamedev, me chama!
-
-- 💼 [LinkedIn](https://linkedin.com/in/thiagopadilha) 
-- 🐙 [github.com/gothiapadilha](https://github.com/gothiapadilha)
-- 📍 Florianópolis, SC
+🔗 [Acessar repositório](https://github.com/gothiapadilha/Mapas-Unicesumar)
 
 ---
 
-**Obrigado por visitar meu perfil! 🚀**
+## 📬 Contato
+
+💼 [LinkedIn](https://linkedin.com/in/thiagopadilha)
+🐙 [GitHub](https://github.com/gothiapadilha)
+📍 Florianópolis, SC
+
+Estou aberto a oportunidades para iniciar minha carreira profissional na área de tecnologia.
+
+**Obrigado pela visita! 🚀**
+
